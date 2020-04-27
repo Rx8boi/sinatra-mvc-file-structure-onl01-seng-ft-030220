@@ -7,3 +7,4 @@ class Dog < Sinatra::Base
     @age = age
     @breed = breed
   end
+end
