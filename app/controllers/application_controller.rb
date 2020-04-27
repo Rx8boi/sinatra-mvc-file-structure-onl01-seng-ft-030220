@@ -1,6 +1,6 @@
 class ApplicationController < Sinatra::Base
 
-  class DOG
+  class Dog
     attr_reader :name, :age, :breed
 
     def initialize
