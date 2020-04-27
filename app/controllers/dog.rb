@@ -15,5 +15,5 @@ class Dog < Sinatra::Base
   def self.all
     @@all
   end
-    
+
 end
